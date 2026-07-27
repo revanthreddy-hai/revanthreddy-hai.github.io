@@ -6,7 +6,7 @@
   <meta name="description" content="R R Airre’s notes and interests in inference engineering.">
   <meta name="theme-color" content="#f6f5f0">
   <title>Inference Engineering — R R Airre</title>
-  <link rel="stylesheet" href="styles.css?v=2">
+  <link rel="stylesheet" href="styles.css?v=3">
 </head>
 <body>
   <div class="site-shell">
@@ -15,93 +15,81 @@
       <a class="quiet-link" href="index.html">Home</a>
     </header>
 
-    <main class="page">
+    <main class="page inference-page">
       <h1>Inference Engineering</h1>
-      <p class="lede">Notes and sources I’m using to learn how models are served in production.</p>
+      <p class="lede">A working shelf for serving, routing, performance, and reliability—plus notes from the work.</p>
 
-      <section class="content-section" aria-labelledby="notes-heading">
-        <h2 class="section-heading" id="notes-heading">My notes</h2>
-        <ul class="entry-list">
-          <li>
-            <a class="entry" href="https://revanthreddy-hai.github.io/the-llm-residency/">
-              <span>
+      <div class="inference-groups">
+        <section class="inference-group" aria-labelledby="notes-heading">
+          <h2 class="section-heading" id="notes-heading">My notes</h2>
+          <ul class="entry-list">
+            <li>
+              <a class="entry" href="https://revanthreddy-hai.github.io/the-llm-residency/">
                 <strong>The LLM Residency</strong>
-                <small>Working notes on the full LLM lifecycle, from training to production inference.</small>
-              </span>
-              <span class="entry-meta">2026 ↗</span>
-            </a>
-          </li>
-        </ul>
-      </section>
+                <span class="entry-meta" aria-hidden="true">↗</span>
+              </a>
+            </li>
+            <li>
+              <a class="entry" href="https://revanthreddy-hai.github.io/the-llm-residency/week00a.html#jobs">
+                <strong>Why six weeks on serving</strong>
+                <span class="entry-meta" aria-hidden="true">↗</span>
+              </a>
+            </li>
+          </ul>
+        </section>
 
-      <section class="content-section" aria-labelledby="sources-heading">
-        <h2 class="section-heading" id="sources-heading">Inference Engineering Resources</h2>
-        <ul class="entry-list inference-sources">
-          <li>
-            <a class="entry" href="https://www.baseten.co/inference-engineering/">
-              <span>
-                <strong>Baseten — Inference Engineering</strong>
-                <small>A full-stack map from models and GPU hardware to runtimes and production serving.</small>
-              </span>
-              <span class="entry-meta">Book ↗</span>
-            </a>
-          </li>
-          <li>
-            <a class="entry" href="https://handbook.modular.com/">
-              <span>
-                <strong>LLM Inference Handbook</strong>
-                <small>A practical reference for metrics, memory, batching, caching, and operations.</small>
-              </span>
-              <span class="entry-meta">Handbook ↗</span>
-            </a>
-          </li>
-          <li>
-            <a class="entry" href="https://modal.com/llm-almanac">
-              <span>
-                <strong>Modal — LLM Engineer’s Almanac</strong>
-                <small>Workload-first benchmarks across vLLM, SGLang, and TensorRT-LLM.</small>
-              </span>
-              <span class="entry-meta">Benchmarks ↗</span>
-            </a>
-          </li>
-          <li>
-            <a class="entry" href="https://vllm.ai/blog">
-              <span>
-                <strong>vLLM</strong>
-                <small>Maintainer deep dives on PagedAttention, scheduling, caching, and benchmarking.</small>
-              </span>
-              <span class="entry-meta">Blog ↗</span>
-            </a>
-          </li>
-          <li>
-            <a class="entry" href="https://docs.sglang.io/">
-              <span>
-                <strong>SGLang</strong>
-                <small>Runtime design, RadixAttention, prefix caching, speculative decoding, and distributed serving.</small>
-              </span>
-              <span class="entry-meta">Project ↗</span>
-            </a>
-          </li>
-          <li>
-            <a class="entry" href="https://nvidia.github.io/TensorRT-LLM/">
-              <span>
-                <strong>NVIDIA TensorRT-LLM</strong>
-                <small>Quantization, KV-cache management, parallelism, disaggregation, and profiling.</small>
-              </span>
-              <span class="entry-meta">Docs ↗</span>
-            </a>
-          </li>
-          <li>
-            <a class="entry" href="https://llm-d.ai/blog">
-              <span>
-                <strong>llm-d</strong>
-                <small>Routing, cache-aware scheduling, disaggregation, and production orchestration.</small>
-              </span>
-              <span class="entry-meta">Blog ↗</span>
-            </a>
-          </li>
-        </ul>
-      </section>
+        <section class="inference-group" aria-labelledby="blogs-heading">
+          <h2 class="section-heading" id="blogs-heading">Engineering blogs</h2>
+          <ul class="entry-list">
+            <li><a class="entry" href="https://www.baseten.co/blog/category/model-performance/"><strong>Baseten — Model Performance</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://modal.com/blog"><strong>Modal</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://vllm.ai/blog"><strong>vLLM</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://www.lmsys.org/blog/"><strong>LMSYS / SGLang</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://llm-d.ai/blog"><strong>llm-d</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+          </ul>
+        </section>
+
+        <section class="inference-group" aria-labelledby="tools-heading">
+          <h2 class="section-heading" id="tools-heading">Tools</h2>
+          <ul class="entry-list">
+            <li><a class="entry" href="https://vllm.ai/"><strong>vLLM</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://docs.sglang.io/"><strong>SGLang</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://nvidia.github.io/TensorRT-LLM/"><strong>TensorRT-LLM</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://llm-d.ai/"><strong>llm-d</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://docs.nvidia.com/dynamo/latest/"><strong>NVIDIA Dynamo</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+          </ul>
+        </section>
+
+        <section class="inference-group" aria-labelledby="books-heading">
+          <h2 class="section-heading" id="books-heading">Books</h2>
+          <ul class="entry-list">
+            <li><a class="entry" href="https://www.baseten.co/inference-engineering/"><strong>Inference Engineering</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://handbook.modular.com/"><strong>LLM Inference Handbook</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://shop.elsevier.com/books/programming-massively-parallel-processors/hwu/978-0-443-43900-1"><strong>Programming Massively Parallel Processors</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://mlsysbook.ai/vol1/index.html"><strong>Introduction to Machine Learning Systems</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+          </ul>
+        </section>
+
+        <section class="inference-group" aria-labelledby="newsletters-heading">
+          <h2 class="section-heading" id="newsletters-heading">Newsletters</h2>
+          <ul class="entry-list">
+            <li><a class="entry" href="https://inferenceops.substack.com/"><strong>InferenceOps</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://newsletter.semianalysis.com/"><strong>SemiAnalysis</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://www.latent.space/"><strong>Latent Space</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+          </ul>
+        </section>
+
+        <section class="inference-group" aria-labelledby="people-heading">
+          <h2 class="section-heading" id="people-heading">People to follow</h2>
+          <ul class="entry-list">
+            <li><a class="entry" href="https://woosuk.me/"><strong>Woosuk Kwon</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://github.com/Ying1123"><strong>Ying Sheng</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://tridao.me/"><strong>Tri Dao</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://tqchen.com/"><strong>Tianqi Chen</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+            <li><a class="entry" href="https://philipkiely.com/"><strong>Philip Kiely</strong><span class="entry-meta" aria-hidden="true">↗</span></a></li>
+          </ul>
+        </section>
+      </div>
     </main>
   </div>
 </body>

@@ -204,31 +204,37 @@ a:focus-visible {
   font-size: 0.82rem;
 }
 
-.inference-sources .entry {
-  padding: 0.9rem 0;
+.inference-groups {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2.75rem 2.5rem;
+  margin-top: 3.75rem;
 }
 
-.inference-sources .entry > span:first-child {
-  display: grid;
-  flex: 1 1 auto;
-  grid-template-columns: minmax(11rem, 14rem) minmax(0, 1fr);
-  gap: 1.25rem;
-  align-items: baseline;
+.inference-group {
   min-width: 0;
 }
 
-.inference-sources .entry strong {
-  font-size: 0.92rem;
+.inference-group .section-heading {
+  margin-bottom: 0.7rem;
+}
+
+.inference-group .entry {
+  gap: 1rem;
+  align-items: center;
+  min-height: 2.75rem;
+  padding: 0.65rem 0;
+  font-size: 0.9rem;
   line-height: 1.35;
 }
 
-.inference-sources .entry small {
-  margin-top: 0;
-  font-size: 0.8rem;
-  line-height: 1.4;
+.inference-group .entry strong {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  font-weight: 600;
 }
 
-.inference-sources .entry-meta {
+.inference-group .entry-meta {
   font-size: 0.72rem;
 }
 
@@ -523,22 +529,14 @@ a:focus-visible {
     align-items: flex-start;
   }
 
-  .inference-sources .entry {
-    gap: 1rem;
-    padding: 1rem 0;
+  .inference-groups {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    margin-top: 3.25rem;
   }
 
-  .inference-sources .entry > span:first-child {
-    display: block;
-  }
-
-  .inference-sources .entry strong {
-    font-size: 0.95rem;
-  }
-
-  .inference-sources .entry small {
-    margin-top: 0.2rem;
-    font-size: 0.82rem;
+  .inference-group .entry {
+    align-items: center;
   }
 
   .uses-list div {
