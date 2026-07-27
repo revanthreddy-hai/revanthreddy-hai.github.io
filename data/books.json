@@ -1,6 +1,6 @@
 {
   "source": "https://www.goodreads.com/user/show/40542943-revan",
-  "updated": "2026-07-19T04:01:48Z",
+  "updated": "2026-07-27T06:55:55Z",
   "readGroups": [
     {
       "name": "Science fiction",
@@ -149,13 +149,6 @@
           "author": "Benjamin Franklin",
           "url": "https://www.goodreads.com/book/show/18623304",
           "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381889150l/18623304.jpg"
-        },
-        {
-          "id": "6900",
-          "title": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",
-          "author": "Mitch Albom",
-          "url": "https://www.goodreads.com/book/show/6900",
-          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423763749l/6900.jpg"
         },
         {
           "id": "11084145",
@@ -336,27 +329,6 @@
           "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346207665l/15858423.jpg"
         },
         {
-          "id": "16316",
-          "title": "The Big Four (Hercule Poirot, #5)",
-          "author": "Agatha Christie",
-          "url": "https://www.goodreads.com/book/show/16316",
-          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372506728l/16316.jpg"
-        },
-        {
-          "id": "6892870",
-          "title": "The Girl Who Kicked the Hornet’s Nest (Millennium, #3)",
-          "author": "Stieg Larsson",
-          "url": "https://www.goodreads.com/book/show/6892870",
-          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327708260l/6892870.jpg"
-        },
-        {
-          "id": "19438473",
-          "title": "The Adventure of the Dying Detective",
-          "author": "Arthur Conan Doyle",
-          "url": "https://www.goodreads.com/book/show/19438473",
-          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386939612l/19438473.jpg"
-        },
-        {
           "id": "16299",
           "title": "And Then There Were None",
           "author": "Agatha Christie",
@@ -364,39 +336,11 @@
           "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638425885l/16299._SY475_.jpg"
         },
         {
-          "id": "16363",
-          "title": "Appointment with Death (Hercule Poirot, #19)",
-          "author": "Agatha Christie",
-          "url": "https://www.goodreads.com/book/show/16363",
-          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1752997872l/16363._SY475_.jpg"
-        },
-        {
-          "id": "5060378",
-          "title": "The Girl Who Played with Fire (Millennium #2)",
-          "author": "Stieg Larsson",
-          "url": "https://www.goodreads.com/book/show/5060378",
-          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351778881l/5060378.jpg"
-        },
-        {
-          "id": "2429135",
-          "title": "The Girl With the Dragon Tattoo (Millennium, #1)",
-          "author": "Stieg Larsson",
-          "url": "https://www.goodreads.com/book/show/2429135",
-          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684638853l/2429135.jpg"
-        },
-        {
           "id": "968",
           "title": "The Da Vinci Code (Robert Langdon, #2)",
           "author": "Dan Brown",
           "url": "https://www.goodreads.com/book/show/968",
           "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720313229l/968._SY475_.jpg"
-        },
-        {
-          "id": "300225",
-          "title": "Bloodline",
-          "author": "Sidney Sheldon",
-          "url": "https://www.goodreads.com/book/show/300225",
-          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298570618l/300225.jpg"
         }
       ]
     },
@@ -528,13 +472,6 @@
           "author": "Ravinder Singh",
           "url": "https://www.goodreads.com/book/show/19427193",
           "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439162367l/19427193.jpg"
-        },
-        {
-          "id": "6969361",
-          "title": "2 States: The Story of My Marriage",
-          "author": "Chetan Bhagat",
-          "url": "https://www.goodreads.com/book/show/6969361",
-          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255292027l/6969361.jpg"
         },
         {
           "id": "320",
@@ -680,6 +617,179 @@
           "author": "Lance Humble",
           "url": "https://www.goodreads.com/book/show/1346457",
           "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320443401l/1346457.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Other",
+      "books": [
+        {
+          "id": "28927",
+          "title": "A Beautiful Mind: The Shooting Script – An Academy Award-Winning Drama of Genius, Schizophrenia, and Redemption",
+          "author": "Akiva Goldsman",
+          "url": "https://www.goodreads.com/book/show/28927",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386922881l/28927.jpg"
+        },
+        {
+          "id": "12820793",
+          "title": "The Oath of the Vayuputras (Shiva Trilogy, #3)",
+          "author": "Amish Tripathi",
+          "url": "https://www.goodreads.com/book/show/12820793",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357242702l/12820793.jpg"
+        },
+        {
+          "id": "40948565",
+          "title": "The Secret of the Nagas (Shiva Trilogy, #2)",
+          "author": "Amish Tripathi",
+          "url": "https://www.goodreads.com/book/show/40948565",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532560274l/40948565._SY475_.jpg"
+        },
+        {
+          "id": "7913305",
+          "title": "The Immortals of Meluha (Shiva Trilogy, #1)",
+          "author": "Amish Tripathi",
+          "url": "https://www.goodreads.com/book/show/7913305",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334659192l/7913305.jpg"
+        },
+        {
+          "id": "61215384",
+          "title": "The Return of the King (The Lord of the Rings, #3)",
+          "author": "J.R.R. Tolkien",
+          "url": "https://www.goodreads.com/book/show/61215384",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216226l/61215384._SY475_.jpg"
+        },
+        {
+          "id": "61215372",
+          "title": "The Two Towers (The Lord of the Rings, #2)",
+          "author": "J.R.R. Tolkien",
+          "url": "https://www.goodreads.com/book/show/61215372",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216149l/61215372._SY475_.jpg"
+        },
+        {
+          "id": "61215351",
+          "title": "The Fellowship of the Ring (The Lord of the Rings, #1)",
+          "author": "J.R.R. Tolkien",
+          "url": "https://www.goodreads.com/book/show/61215351",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654215925l/61215351._SY475_.jpg"
+        },
+        {
+          "id": "10664113",
+          "title": "A Dance with Dragons (A Song of Ice and Fire, #5)",
+          "author": "George R.R. Martin",
+          "url": "https://www.goodreads.com/book/show/10664113",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1753059444l/10664113._SY475_.jpg"
+        },
+        {
+          "id": "13497",
+          "title": "A Feast for Crows (A Song of Ice and Fire, #4)",
+          "author": "George R.R. Martin",
+          "url": "https://www.goodreads.com/book/show/13497",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661026821l/13497._SY475_.jpg"
+        },
+        {
+          "id": "62291",
+          "title": "A Storm of Swords (A Song of Ice and Fire, #3)",
+          "author": "George R.R. Martin",
+          "url": "https://www.goodreads.com/book/show/62291",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571318786l/62291.jpg"
+        },
+        {
+          "id": "10572",
+          "title": "A Clash of Kings (A Song of Ice and Fire, #2)",
+          "author": "George R.R. Martin",
+          "url": "https://www.goodreads.com/book/show/10572",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567840212l/10572.jpg"
+        },
+        {
+          "id": "13496",
+          "title": "A Game of Thrones (A Song of Ice and Fire, #1)",
+          "author": "George R.R. Martin",
+          "url": "https://www.goodreads.com/book/show/13496",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496.jpg"
+        },
+        {
+          "id": "816",
+          "title": "Cryptonomicon",
+          "author": "Neal Stephenson",
+          "url": "https://www.goodreads.com/book/show/816",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327931476l/816.jpg"
+        },
+        {
+          "id": "6088007",
+          "title": "Neuromancer (Sprawl, #1)",
+          "author": "William Gibson",
+          "url": "https://www.goodreads.com/book/show/6088007",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1752514552l/6088007._SY475_.jpg"
+        },
+        {
+          "id": "76683",
+          "title": "Foundation's Edge (Foundation, #4)",
+          "author": "Isaac Asimov",
+          "url": "https://www.goodreads.com/book/show/76683",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442311409l/76683._SY475_.jpg"
+        },
+        {
+          "id": "29580",
+          "title": "Second Foundation (Foundation, #3)",
+          "author": "Isaac Asimov",
+          "url": "https://www.goodreads.com/book/show/29580",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661015922l/29580._SY475_.jpg"
+        },
+        {
+          "id": "41804",
+          "title": "I, Robot (Robot, #0.1)",
+          "author": "Isaac Asimov",
+          "url": "https://www.goodreads.com/book/show/41804",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609035271l/41804.jpg"
+        },
+        {
+          "id": "29581",
+          "title": "Foundation and Empire (Foundation, #2)",
+          "author": "Isaac Asimov",
+          "url": "https://www.goodreads.com/book/show/29581",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391454612l/29581.jpg"
+        },
+        {
+          "id": "29579",
+          "title": "Foundation (Foundation, #1)",
+          "author": "Isaac Asimov",
+          "url": "https://www.goodreads.com/book/show/29579",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579.jpg"
+        },
+        {
+          "id": "61240297",
+          "title": "Snow Crash",
+          "author": "Neal Stephenson",
+          "url": "https://www.goodreads.com/book/show/61240297",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656932283l/61240297.jpg"
+        },
+        {
+          "id": "52843028",
+          "title": "The Mysterious Affair at Styles (Hercule Poirot, #1)",
+          "author": "Agatha Christie",
+          "url": "https://www.goodreads.com/book/show/52843028",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585632445l/52843028._SY475_.jpg"
+        },
+        {
+          "id": "131359",
+          "title": "Death on the Nile (Hercule Poirot, #18)",
+          "author": "Agatha Christie",
+          "url": "https://www.goodreads.com/book/show/131359",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486837149l/131359._SY475_.jpg"
+        },
+        {
+          "id": "121648",
+          "title": "Five Little Pigs (Hercule Poirot, #25)",
+          "author": "Agatha Christie",
+          "url": "https://www.goodreads.com/book/show/121648",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429422068l/121648.jpg"
+        },
+        {
+          "id": "853510",
+          "title": "Murder on the Orient Express (Hercule Poirot, #10)",
+          "author": "Agatha Christie",
+          "url": "https://www.goodreads.com/book/show/853510",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733926500l/853510._SY475_.jpg"
         }
       ]
     }
