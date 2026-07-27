@@ -1,0 +1,787 @@
+{
+  "source": "https://www.goodreads.com/user/show/40542943-revan",
+  "updated": "2026-07-19T04:01:48Z",
+  "readGroups": [
+    {
+      "name": "Science fiction",
+      "books": [
+        {
+          "id": "31578285",
+          "title": "Extracted (Extracted Trilogy, #1)",
+          "author": "R.R. Haywood",
+          "url": "https://www.goodreads.com/book/show/31578285",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484169128l/31578285.jpg"
+        },
+        {
+          "id": "20603758",
+          "title": "Ready Player One (Ready Player One, #1)",
+          "author": "Ernest Cline",
+          "url": "https://www.goodreads.com/book/show/20603758",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390275705l/20603758.jpg"
+        },
+        {
+          "id": "222697645",
+          "title": "Project Hail Mary",
+          "author": "Andy Weir",
+          "url": "https://www.goodreads.com/book/show/222697645",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734434586l/222697645._SY475_.jpg"
+        },
+        {
+          "id": "63340129",
+          "title": "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide, #1)",
+          "author": "Douglas Adams",
+          "url": "https://www.goodreads.com/book/show/63340129",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668689546l/63340129._SX318_.jpg"
+        },
+        {
+          "id": "49661162",
+          "title": "Randomize (Forward Collection, #6)",
+          "author": "Andy Weir",
+          "url": "https://www.goodreads.com/book/show/49661162",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1776506804l/49661162._SY475_.jpg"
+        },
+        {
+          "id": "6451669",
+          "title": "Altered Carbon (Takeshi Kovacs, #1)",
+          "author": "Richard K. Morgan",
+          "url": "https://www.goodreads.com/book/show/6451669",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356109076l/6451669.jpg"
+        },
+        {
+          "id": "25843420",
+          "title": "The Atlantis Gene (The Origin Mystery, #1)",
+          "author": "A.G. Riddle",
+          "url": "https://www.goodreads.com/book/show/25843420",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435944019l/25843420._SY475_.jpg"
+        },
+        {
+          "id": "17188931",
+          "title": "Becoming Human (Exilon 5 #1)",
+          "author": "Eliza Green",
+          "url": "https://www.goodreads.com/book/show/17188931",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356800870l/17188931.jpg"
+        },
+        {
+          "id": "25156227",
+          "title": "Aftermath (Star Wars: Aftermath, #1)",
+          "author": "Chuck Wendig",
+          "url": "https://www.goodreads.com/book/show/25156227",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441368702l/25156227.jpg"
+        },
+        {
+          "id": "23533694",
+          "title": "Interstellar: The Official Movie Novelization",
+          "author": "Greg Keyes",
+          "url": "https://www.goodreads.com/book/show/23533694",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423155799l/23533694._SY475_.jpg"
+        },
+        {
+          "id": "23794384",
+          "title": "Fatal Alliance (Star Wars: The Old Republic Book 1)",
+          "author": "Sean Williams",
+          "url": "https://www.goodreads.com/book/show/23794384",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426863642l/23794384.jpg"
+        },
+        {
+          "id": "18401393",
+          "title": "The Martian",
+          "author": "Andy Weir",
+          "url": "https://www.goodreads.com/book/show/18401393",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730462983l/18401393._SY475_.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Biography & memoir",
+      "books": [
+        {
+          "id": "228310348",
+          "title": "Elon Musk",
+          "author": "Walter Isaacson",
+          "url": "https://www.goodreads.com/book/show/228310348",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1740322780l/228310348._SY475_.jpg"
+        },
+        {
+          "id": "55513377",
+          "title": "The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race",
+          "author": "Walter Isaacson",
+          "url": "https://www.goodreads.com/book/show/55513377",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601430592l/55513377._SX318_.jpg"
+        },
+        {
+          "id": "23396040",
+          "title": "Ada's Algorithm: How Lord Byron's Daughter Ada Lovelace Launched the Digital Age",
+          "author": "James Essinger",
+          "url": "https://www.goodreads.com/book/show/23396040",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729340919l/23396040._SY475_.jpg"
+        },
+        {
+          "id": "6602781",
+          "title": "Einstein: His Life and Universe",
+          "author": "Walter Isaacson",
+          "url": "https://www.goodreads.com/book/show/6602781",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570930979l/6602781._SY475_.jpg"
+        },
+        {
+          "id": "798635",
+          "title": "iWoz: Computer Geek to Cult Icon: How I Invented the Personal Computer, Co-Founded Apple, and Had Fun Doing It",
+          "author": "Steve Wozniak",
+          "url": "https://www.goodreads.com/book/show/798635",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463005799l/798635.jpg"
+        },
+        {
+          "id": "25563103",
+          "title": "Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future",
+          "author": "Ashlee Vance",
+          "url": "https://www.goodreads.com/book/show/25563103",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432418934l/25563103._SY475_.jpg"
+        },
+        {
+          "id": "21856367",
+          "title": "The Innovators: How a Group of Hackers, Geniuses and Geeks Created the Digital Revolution",
+          "author": "Walter Isaacson",
+          "url": "https://www.goodreads.com/book/show/21856367",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410191571l/21856367.jpg"
+        },
+        {
+          "id": "18623304",
+          "title": "The Autobiography of Benjamin Franklin",
+          "author": "Benjamin Franklin",
+          "url": "https://www.goodreads.com/book/show/18623304",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381889150l/18623304.jpg"
+        },
+        {
+          "id": "6900",
+          "title": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",
+          "author": "Mitch Albom",
+          "url": "https://www.goodreads.com/book/show/6900",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423763749l/6900.jpg"
+        },
+        {
+          "id": "11084145",
+          "title": "Steve Jobs",
+          "author": "Walter Isaacson",
+          "url": "https://www.goodreads.com/book/show/11084145",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511288482l/11084145._SY475_.jpg"
+        },
+        {
+          "id": "10907",
+          "title": "The Pursuit of Happyness",
+          "author": "Chris Gardner",
+          "url": "https://www.goodreads.com/book/show/10907",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428219118l/10907.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Technology & business",
+      "books": [
+        {
+          "id": "38799469",
+          "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+          "author": "John Carreyrou",
+          "url": "https://www.goodreads.com/book/show/38799469",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522685770l/38799469.jpg"
+        },
+        {
+          "id": "39731977",
+          "title": "How the Internet Happened: From Netscape to the iPhone",
+          "author": "Brian McCullough",
+          "url": "https://www.goodreads.com/book/show/39731977",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523025861l/39731977._SY475_.jpg"
+        },
+        {
+          "id": "53504694",
+          "title": "Dotcom Secrets: The Underground Playbook for Growing Your Company Online with Sales Funnels",
+          "author": "Russell Brunson",
+          "url": "https://www.goodreads.com/book/show/53504694",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590611416l/53504694._SY475_.jpg"
+        },
+        {
+          "id": "36146011",
+          "title": "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers",
+          "author": "Timothy Ferriss",
+          "url": "https://www.goodreads.com/book/show/36146011",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504027900l/36146011._SX318_.jpg"
+        },
+        {
+          "id": "20657434",
+          "title": "The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers",
+          "author": "Ben Horowitz",
+          "url": "https://www.goodreads.com/book/show/20657434",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391109084l/20657434.jpg"
+        },
+        {
+          "id": "49110127",
+          "title": "The Infinite Machine",
+          "author": "Camila Russo",
+          "url": "https://www.goodreads.com/book/show/49110127",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575594847l/49110127._SY475_.jpg"
+        },
+        {
+          "id": "54388921",
+          "title": "The Everything Store: Jeff Bezos and the Age of Amazon",
+          "author": "Brad Stone",
+          "url": "https://www.goodreads.com/book/show/54388921",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593885588l/54388921._SY475_.jpg"
+        },
+        {
+          "id": "41703776",
+          "title": "Bitcoin Billionaires: A True Story of Genius, Betrayal, and Redemption",
+          "author": "Ben Mezrich",
+          "url": "https://www.goodreads.com/book/show/41703776",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569269817l/41703776._SY475_.jpg"
+        },
+        {
+          "id": "39681794",
+          "title": "AI Superpowers: China, Silicon Valley, and the New World Order",
+          "author": "Kai-Fu Lee",
+          "url": "https://www.goodreads.com/book/show/39681794",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522379445l/39681794._SY475_.jpg"
+        },
+        {
+          "id": "35080638",
+          "title": "Blockchain: How Technologies Behind Bitcoin Is Changing Money and Business",
+          "author": "Mark Bresett",
+          "url": "https://www.goodreads.com/book/show/35080638",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494154677l/35080638._SY475_.jpg"
+        },
+        {
+          "id": "28259132",
+          "title": "Chaos Monkeys: Obscene Fortune and Random Failure in Silicon Valley",
+          "author": "Antonio García Martínez",
+          "url": "https://www.goodreads.com/book/show/28259132",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465404348l/28259132._SY475_.jpg"
+        },
+        {
+          "id": "26209294",
+          "title": "The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World",
+          "author": "Pedro Domingos",
+          "url": "https://www.goodreads.com/book/show/26209294",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441679845l/26209294._SY475_.jpg"
+        },
+        {
+          "id": "13386158",
+          "title": "The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture",
+          "author": "John Battelle",
+          "url": "https://www.goodreads.com/book/show/13386158",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394264191l/13386158.jpg"
+        },
+        {
+          "id": "6881578",
+          "title": "The Leader Who Had No Title: A Modern Fable on Real Success in Business and in Life",
+          "author": "Robin Sharma",
+          "url": "https://www.goodreads.com/book/show/6881578",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442584945l/6881578._SX318_.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Mystery & thriller",
+      "books": [
+        {
+          "id": "34197836",
+          "title": "The Girl Who Takes an Eye for an Eye (Millennium, #5)",
+          "author": "David Lagercrantz",
+          "url": "https://www.goodreads.com/book/show/34197836",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1506360258l/34197836._SX318_.jpg"
+        },
+        {
+          "id": "51876297",
+          "title": "The Godfather (The Godfather #1)",
+          "author": "Mario Puzo",
+          "url": "https://www.goodreads.com/book/show/51876297",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586544475l/51876297._SY475_.jpg"
+        },
+        {
+          "id": "20500078",
+          "title": "Habit (Titan, #1)",
+          "author": "T.J. Brearton",
+          "url": "https://www.goodreads.com/book/show/20500078",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389307385l/20500078.jpg"
+        },
+        {
+          "id": "14401775",
+          "title": "Suggestion of Death",
+          "author": "Janet Kole",
+          "url": "https://www.goodreads.com/book/show/14401775",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347652977l/14401775.jpg"
+        },
+        {
+          "id": "27810589",
+          "title": "A Death in Sweden",
+          "author": "Kevin Wignall",
+          "url": "https://www.goodreads.com/book/show/27810589",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447338495l/27810589._SY475_.jpg"
+        },
+        {
+          "id": "24789156",
+          "title": "The Girl in the Spider's Web (Millennium, #4)",
+          "author": "David Lagercrantz",
+          "url": "https://www.goodreads.com/book/show/24789156",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428246110l/24789156.jpg"
+        },
+        {
+          "id": "18468981",
+          "title": "Innocent in Las Vegas (Tiffany Black Mysteries, #1)",
+          "author": "A.R. Winters",
+          "url": "https://www.goodreads.com/book/show/18468981",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378730707l/18468981.jpg"
+        },
+        {
+          "id": "15858423",
+          "title": "Noble Intentions: Season One (Episodes #1-5; Jack Noble #4)",
+          "author": "L.T. Ryan",
+          "url": "https://www.goodreads.com/book/show/15858423",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346207665l/15858423.jpg"
+        },
+        {
+          "id": "16316",
+          "title": "The Big Four (Hercule Poirot, #5)",
+          "author": "Agatha Christie",
+          "url": "https://www.goodreads.com/book/show/16316",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372506728l/16316.jpg"
+        },
+        {
+          "id": "6892870",
+          "title": "The Girl Who Kicked the Hornet’s Nest (Millennium, #3)",
+          "author": "Stieg Larsson",
+          "url": "https://www.goodreads.com/book/show/6892870",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327708260l/6892870.jpg"
+        },
+        {
+          "id": "19438473",
+          "title": "The Adventure of the Dying Detective",
+          "author": "Arthur Conan Doyle",
+          "url": "https://www.goodreads.com/book/show/19438473",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386939612l/19438473.jpg"
+        },
+        {
+          "id": "16299",
+          "title": "And Then There Were None",
+          "author": "Agatha Christie",
+          "url": "https://www.goodreads.com/book/show/16299",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638425885l/16299._SY475_.jpg"
+        },
+        {
+          "id": "16363",
+          "title": "Appointment with Death (Hercule Poirot, #19)",
+          "author": "Agatha Christie",
+          "url": "https://www.goodreads.com/book/show/16363",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1752997872l/16363._SY475_.jpg"
+        },
+        {
+          "id": "5060378",
+          "title": "The Girl Who Played with Fire (Millennium #2)",
+          "author": "Stieg Larsson",
+          "url": "https://www.goodreads.com/book/show/5060378",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351778881l/5060378.jpg"
+        },
+        {
+          "id": "2429135",
+          "title": "The Girl With the Dragon Tattoo (Millennium, #1)",
+          "author": "Stieg Larsson",
+          "url": "https://www.goodreads.com/book/show/2429135",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684638853l/2429135.jpg"
+        },
+        {
+          "id": "968",
+          "title": "The Da Vinci Code (Robert Langdon, #2)",
+          "author": "Dan Brown",
+          "url": "https://www.goodreads.com/book/show/968",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720313229l/968._SY475_.jpg"
+        },
+        {
+          "id": "300225",
+          "title": "Bloodline",
+          "author": "Sidney Sheldon",
+          "url": "https://www.goodreads.com/book/show/300225",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298570618l/300225.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Fiction",
+      "books": [
+        {
+          "id": "51247073",
+          "title": "Your Perfect Year",
+          "author": "Charlotte Lucas",
+          "url": "https://www.goodreads.com/book/show/51247073",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561693776l/51247073._SX318_SY475_.jpg"
+        },
+        {
+          "id": "11600688",
+          "title": "The 3 Mistakes of My Life / One Night At The Call Center / Five Point Someone",
+          "author": "Chetan Bhagat",
+          "url": "https://www.goodreads.com/book/show/11600688",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365663850l/11600688.jpg"
+        },
+        {
+          "id": "17779550",
+          "title": "Last Train to Istanbul",
+          "author": "Ayşe Kulin",
+          "url": "https://www.goodreads.com/book/show/17779550",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374640244l/17779550.jpg"
+        },
+        {
+          "id": "10872085",
+          "title": "Only Time Will Tell (The Clifton Chronicles, #1)",
+          "author": "Jeffrey Archer",
+          "url": "https://www.goodreads.com/book/show/10872085",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442866312l/10872085._SY475_.jpg"
+        },
+        {
+          "id": "18135",
+          "title": "Romeo and Juliet",
+          "author": "William Shakespeare",
+          "url": "https://www.goodreads.com/book/show/18135",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629680008l/18135._SY475_.jpg"
+        },
+        {
+          "id": "18908118",
+          "title": "Under Western Eyes",
+          "author": "Joseph Conrad",
+          "url": "https://www.goodreads.com/book/show/18908118",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441895579l/18908118._SY475_.jpg"
+        },
+        {
+          "id": "13503352",
+          "title": "The Secret Garden",
+          "author": "Frances Hodgson Burnett",
+          "url": "https://www.goodreads.com/book/show/13503352",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330417330l/13503352.jpg"
+        },
+        {
+          "id": "11713",
+          "title": "The English Patient",
+          "author": "Michael Ondaatje",
+          "url": "https://www.goodreads.com/book/show/11713",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320527907l/11713.jpg"
+        },
+        {
+          "id": "19571050",
+          "title": "College 2 Company",
+          "author": "Saurabh Singh",
+          "url": "https://www.goodreads.com/book/show/19571050",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387605578l/19571050.jpg"
+        },
+        {
+          "id": "9606839",
+          "title": "The Vampire Diaries, Volumes 1-4 (The Vampire Diaries, #1-4)",
+          "author": "L.J. Smith",
+          "url": "https://www.goodreads.com/book/show/9606839",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1290851453l/9606839.jpg"
+        },
+        {
+          "id": "13041934",
+          "title": "Can Love Happen Twice?",
+          "author": "Ravinder Singh",
+          "url": "https://www.goodreads.com/book/show/13041934",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1321016822l/13041934.jpg"
+        },
+        {
+          "id": "16121449",
+          "title": "The Reverse Journey",
+          "author": "Vivek Kumar Singh",
+          "url": "https://www.goodreads.com/book/show/16121449",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351760648l/16121449.jpg"
+        },
+        {
+          "id": "3473",
+          "title": "A Walk to Remember",
+          "author": "Nicholas Sparks",
+          "url": "https://www.goodreads.com/book/show/3473",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385738968l/3473.jpg"
+        },
+        {
+          "id": "12210339",
+          "title": "The 6 pm Slot",
+          "author": "Naomi Datta",
+          "url": "https://www.goodreads.com/book/show/12210339",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348220316l/12210339.jpg"
+        },
+        {
+          "id": "3934321",
+          "title": "Nightfall (The Vampire Diaries: The Return, #1)",
+          "author": "L.J. Smith",
+          "url": "https://www.goodreads.com/book/show/3934321",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347414391l/3934321.jpg"
+        },
+        {
+          "id": "11256293",
+          "title": "Life is What You Make It: A Story of Love, Hope and How Determination Can Overcome Even Destiny",
+          "author": "Preeti Shenoy",
+          "url": "https://www.goodreads.com/book/show/11256293",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308754493l/11256293.jpg"
+        },
+        {
+          "id": "395922",
+          "title": "The Awakening (The Vampire Diaries, #1)",
+          "author": "L.J. Smith",
+          "url": "https://www.goodreads.com/book/show/395922",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266542802l/395922.jpg"
+        },
+        {
+          "id": "19427193",
+          "title": "I Too Had a Love Story",
+          "author": "Ravinder Singh",
+          "url": "https://www.goodreads.com/book/show/19427193",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439162367l/19427193.jpg"
+        },
+        {
+          "id": "6969361",
+          "title": "2 States: The Story of My Marriage",
+          "author": "Chetan Bhagat",
+          "url": "https://www.goodreads.com/book/show/6969361",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1255292027l/6969361.jpg"
+        },
+        {
+          "id": "320",
+          "title": "One Hundred Years of Solitude",
+          "author": "Gabriel García Márquez",
+          "url": "https://www.goodreads.com/book/show/320",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361l/320.jpg"
+        },
+        {
+          "id": "3320520",
+          "title": "The 3 Mistakes of My Life",
+          "author": "Chetan Bhagat",
+          "url": "https://www.goodreads.com/book/show/3320520",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1216107646l/3320520.jpg"
+        },
+        {
+          "id": "4008",
+          "title": "The Devil and Miss Prym",
+          "author": "Paulo Coelho",
+          "url": "https://www.goodreads.com/book/show/4008",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719433911l/4008.jpg"
+        },
+        {
+          "id": "105578",
+          "title": "One Night at the Call Center",
+          "author": "Chetan Bhagat",
+          "url": "https://www.goodreads.com/book/show/105578",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320500924l/105578.jpg"
+        },
+        {
+          "id": "20572075",
+          "title": "Romeo and Juliet",
+          "author": "William Shakespeare",
+          "url": "https://www.goodreads.com/book/show/20572075",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390078043l/20572075.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Non-fiction",
+      "books": [
+        {
+          "id": "24315636",
+          "title": "A History of π",
+          "author": "Petr Beckmann",
+          "url": "https://www.goodreads.com/book/show/24315636",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420520994l/24315636.jpg"
+        },
+        {
+          "id": "43887587",
+          "title": "The Man Who Played with Fire: Stieg Larsson's Lost Files and the Hunt for an Assassin",
+          "author": "Jan Stocklassa",
+          "url": "https://www.goodreads.com/book/show/43887587",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549584391l/43887587._SY475_.jpg"
+        },
+        {
+          "id": "16070382",
+          "title": "The One World Schoolhouse: Education Reimagined",
+          "author": "Salman Khan",
+          "url": "https://www.goodreads.com/book/show/16070382",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362379560l/16070382.jpg"
+        },
+        {
+          "id": "40121378",
+          "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+          "author": "James Clear",
+          "url": "https://www.goodreads.com/book/show/40121378",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378.jpg"
+        },
+        {
+          "id": "20958539",
+          "title": "Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Mental Mastery, #1)",
+          "author": "Kevin Horsley",
+          "url": "https://www.goodreads.com/book/show/20958539",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428170961l/20958539.jpg"
+        },
+        {
+          "id": "8112865",
+          "title": "No Excuses!: The Power of Self-Discipline",
+          "author": "Brian Tracy",
+          "url": "https://www.goodreads.com/book/show/8112865",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328753350l/8112865.jpg"
+        },
+        {
+          "id": "429510",
+          "title": "Augustan Rome (Classical World Series)",
+          "author": "Andrew Wallace-Hadrill",
+          "url": "https://www.goodreads.com/book/show/429510",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347530214l/429510.jpg"
+        },
+        {
+          "id": "93995",
+          "title": "Hitler Youth: Growing Up in Hitler's Shadow",
+          "author": "Susan Campbell Bartoletti",
+          "url": "https://www.goodreads.com/book/show/93995",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328869669l/93995.jpg"
+        },
+        {
+          "id": "6394415",
+          "title": "Transcend: Nine Steps to Living Well Forever",
+          "author": "Ray Kurzweil",
+          "url": "https://www.goodreads.com/book/show/6394415",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328311828l/6394415.jpg"
+        },
+        {
+          "id": "3353331",
+          "title": "I Bought the Monk’s Ferrari",
+          "author": "Ravi Subramanian",
+          "url": "https://www.goodreads.com/book/show/3353331",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1211873839l/3353331.jpg"
+        },
+        {
+          "id": "10695150",
+          "title": "The Secret Letters of the Monk Who Sold His Ferrari",
+          "author": "Robin Sharma",
+          "url": "https://www.goodreads.com/book/show/10695150",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342338948l/10695150.jpg"
+        },
+        {
+          "id": "2225110",
+          "title": "From Your Ice Cream Maker (Nitty Gritty Cookbooks)",
+          "author": "Coleen Simmons",
+          "url": "https://www.goodreads.com/book/show/2225110",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266650708l/2225110.jpg"
+        },
+        {
+          "id": "73370",
+          "title": "Tough Jews: Fathers, Sons, and Gangster Dreams",
+          "author": "Rich Cohen",
+          "url": "https://www.goodreads.com/book/show/73370",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320405341l/73370.jpg"
+        },
+        {
+          "id": "21707025",
+          "title": "Healthy Thinking",
+          "author": "Tom Mulholland",
+          "url": "https://www.goodreads.com/book/show/21707025",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398734773l/21707025.jpg"
+        },
+        {
+          "id": "1346457",
+          "title": "The World's Greatest Blackjack Book",
+          "author": "Lance Humble",
+          "url": "https://www.goodreads.com/book/show/1346457",
+          "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320443401l/1346457.jpg"
+        }
+      ]
+    }
+  ],
+  "currentlyReading": [
+    {
+      "id": "241592462",
+      "title": "The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence",
+      "author": "Sebastian Mallaby",
+      "url": "https://www.goodreads.com/book/show/241592462",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759899023l/241592462._SY475_.jpg"
+    },
+    {
+      "id": "32934117",
+      "title": "When Dimple Met Rishi (Dimple and Rishi, #1)",
+      "author": "Sandhya Menon",
+      "url": "https://www.goodreads.com/book/show/32934117",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478734535l/32934117.jpg"
+    },
+    {
+      "id": "205920072",
+      "title": "Waiting To Breathe: A Journey Toward Authentic Living (The Breath of Love Book 1)",
+      "author": "Vikas Agarwal",
+      "url": "https://www.goodreads.com/book/show/205920072",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706167758l/205920072._SY475_.jpg"
+    },
+    {
+      "id": "57650857",
+      "title": "The Minimalist Entrepreneur: How Great Founders Do More with Less",
+      "author": "Sahil Lavingia",
+      "url": "https://www.goodreads.com/book/show/57650857",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617733570l/57650857._SY475_.jpg"
+    },
+    {
+      "id": "56962799",
+      "title": "The Cold Start Problem: How to Start and Scale Network Effects",
+      "author": "Andrew Chen",
+      "url": "https://www.goodreads.com/book/show/56962799",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1672701110l/56962799._SY475_.jpg"
+    },
+    {
+      "id": "35881748",
+      "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
+      "author": "Max Tegmark",
+      "url": "https://www.goodreads.com/book/show/35881748",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501510379l/35881748._SX318_.jpg"
+    },
+    {
+      "id": "28412900",
+      "title": "The Code of the Extraordinary Mind: 10 Unconventional Laws to Redefine Your Life and Succeed On Your Own Terms",
+      "author": "Vishen Lakhiani",
+      "url": "https://www.goodreads.com/book/show/28412900",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451573252l/28412900._SY475_.jpg"
+    },
+    {
+      "id": "18623100",
+      "title": "The Physician (The Cole Trilogy, 1)",
+      "author": "Noah Gordon",
+      "url": "https://www.goodreads.com/book/show/18623100",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442477186l/18623100._SY475_.jpg"
+    },
+    {
+      "id": "6098403",
+      "title": "The Elegant Universe",
+      "author": "Brian Greene",
+      "url": "https://www.goodreads.com/book/show/6098403",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490578984l/6098403._SX318_.jpg"
+    },
+    {
+      "id": "33244630",
+      "title": "Non-Obvious 2017: How To Think Different, Curate Ideas and Predict The Future",
+      "author": "Rohit Bhargava",
+      "url": "https://www.goodreads.com/book/show/33244630",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480898125l/33244630._SX318_.jpg"
+    },
+    {
+      "id": "22699140",
+      "title": "The Maze Runner (The Maze Runner, #1)",
+      "author": "James Dashner",
+      "url": "https://www.goodreads.com/book/show/22699140",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404926582l/22699140.jpg"
+    },
+    {
+      "id": "18716197",
+      "title": "The ONE Thing: The Surprisingly Simple Truth About Extraordinary Results",
+      "author": "Gary Keller",
+      "url": "https://www.goodreads.com/book/show/18716197",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384806022l/18716197.jpg"
+    },
+    {
+      "id": "31575958",
+      "title": "Fate of Perfection (Finding Paradise #1)",
+      "author": "K.F. Breene",
+      "url": "https://www.goodreads.com/book/show/31575958",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471880134l/31575958._SY475_.jpg"
+    },
+    {
+      "id": "18046624",
+      "title": "Red Rising (Red Rising Saga, #1)",
+      "author": "Pierce Brown",
+      "url": "https://www.goodreads.com/book/show/18046624",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654571908l/18046624._SY475_.jpg"
+    }
+  ]
+}
